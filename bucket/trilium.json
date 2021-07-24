@@ -1,0 +1,21 @@
+{
+    "version": "0.47.5",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "homepage": "https://github.com/Nriver/trilium-translation/",
+    "license": "AGPL-3.0-or-later",
+    "url": "https://github.com/Nriver/trilium-translation/releases/download/20210629/trilium-cn-windows-x64.zip",
+    "hash": "89A15D5026723F4D142ECE89191D79473DFD41AB04DC47B18DE83E5270C0D186",
+    "innosetup": false,
+    "shortcuts": [
+        [
+            "trilium.exe",
+            "Trilium"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/Nriver/trilium-translation/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Nriver/trilium-translation/releases/download/$version/trilium-cn-windows-x64.zip"
+    }
+}

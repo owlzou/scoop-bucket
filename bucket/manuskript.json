@@ -1,0 +1,24 @@
+{
+    "version": "0.12.0",
+    "description": "A open-source tool for writers",
+    "homepage": "https://github.com/olivierkes/manuskript/",
+    "license": {
+        "identifier": "GPL-3.0-or-later",
+        "url": "https://github.com/olivierkes/manuskript/blob/develop/COPYING"
+    },
+    "url": "https://github.com/olivierkes/manuskript/releases/download/0.12.0/manuskript-0.12.0-fix-7e05b72-win32.zip",
+    "hash": "764209c9cc5c4ababbdfbdc5084b957bbd67d2641814f268f347215b2dceff8b",
+    "innosetup": false,
+    "shortcuts": [
+        [
+            "manuskript/manuskript.exe",
+            "Manuskript"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/olivierkes/manuskript/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/olivierkes/manuskript/releases/download/$version/manuskript-$version-win32.zip"
+    }
+}
