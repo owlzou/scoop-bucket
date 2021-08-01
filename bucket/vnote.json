@@ -1,10 +1,10 @@
 {
-    "version": "3.4.0",
+    "version": "3.5.1",
     "description": "A pleasant note-taking platform. ",
     "homepage": "https://tamlok.gitee.io/vnote/",
     "license": "MIT",
-    "url": "https://github.com/vnotex/vnote/releases/download/v3.4.0/vnote-win-x64_v3.4.0.zip",
-    "hash": "2FB185B67A2AA6169E53938CE9C793361C49F5DA83CD61EA453EA569079073FE",
+    "url": "https://github.com/vnotex/vnote/releases/download/v3.5.1/vnote-win-x64_v3.5.1.zip",
+    "hash": "0cceb3c54acf1726da8132084d9dabdd73ab73314fd337cbf97dbc2e478bbbab",
     "innosetup": false,
     "shortcuts": [
         [
